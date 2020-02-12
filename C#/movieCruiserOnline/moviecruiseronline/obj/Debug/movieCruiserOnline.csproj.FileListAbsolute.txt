@@ -1,0 +1,6 @@
+c:\users\808002\documents\visual studio 2015\Projects\movieCruiserOnline\movieCruiserOnline\bin\Debug\movieCruiserOnline.exe.config
+c:\users\808002\documents\visual studio 2015\Projects\movieCruiserOnline\movieCruiserOnline\obj\Debug\movieCruiserOnline.csprojResolveAssemblyReference.cache
+c:\users\808002\documents\visual studio 2015\Projects\movieCruiserOnline\movieCruiserOnline\bin\Debug\movieCruiserOnline.exe
+c:\users\808002\documents\visual studio 2015\Projects\movieCruiserOnline\movieCruiserOnline\bin\Debug\movieCruiserOnline.pdb
+c:\users\808002\documents\visual studio 2015\Projects\movieCruiserOnline\movieCruiserOnline\obj\Debug\movieCruiserOnline.exe
+c:\users\808002\documents\visual studio 2015\Projects\movieCruiserOnline\movieCruiserOnline\obj\Debug\movieCruiserOnline.pdb
